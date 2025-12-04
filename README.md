@@ -1,3 +1,4 @@
+
 # 🚀 API de Funcionários - Django REST Framework
 
 API REST profissional para gestão de funcionários, desenvolvida com Django Rest Framework, autenticação JWT, filtros, busca e documentação Swagger.
@@ -39,3 +40,6 @@ A API é protegida por autenticação via Token JWT.
 
 **POST**
 
+=======
+# django-rest-api-demo
+>>>>>>> 5eabd5fb14bff478424534f0523467591d755367
